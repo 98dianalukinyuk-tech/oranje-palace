@@ -1,0 +1,9 @@
+PUBLICATIECHECKLIST
+
+1. Laat merkgebruik, juridische teksten en onafhankelijke positionering professioneel beoordelen.
+2. Bevestig adres, openingstijden, exploitant, vergunning, spelaanbod, horeca, evenementen en toegankelijkheid per echte vestiging.
+3. Voeg een eigen domein, canonicals, sitemap.xml en robots.txt toe; de conceptpagina's staan bewust op noindex,nofollow.
+4. Richt een beveiligde ontvanger, bewaartermijn, spambeveiliging en volledige privacy-informatie in voor het formulier.
+5. Test toetsenbord, focus, contrast, formulieren en alle schermbreedtes opnieuw na inhoudelijke wijzigingen.
+6. Controleer Cruks- en hulpinformatie vlak voor publicatie.
+7. Gebruik uitsluitend logo's, foto's en merkmiddelen waarvoor aantoonbare rechten bestaan.
